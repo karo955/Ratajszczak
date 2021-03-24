@@ -1,6 +1,6 @@
 # Grupa Ratajszczaka
 
-Wołowczyk J.
-Stolarek K.
-Malak J.
-Ratajszczak F.
+Wołowczyk J. <br>
+Stolarek K. <br>
+Malak J. <br>
+Ratajszczak F. <br>
